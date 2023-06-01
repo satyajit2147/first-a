@@ -1,0 +1,4 @@
+Name:=SATYAJIT PAWAR
+Class:=TE
+Subject:=LP-2
+Deca:=This is first repository
